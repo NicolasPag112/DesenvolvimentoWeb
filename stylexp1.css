@@ -4,17 +4,22 @@ html {
   }
   
   body{
-    padding: 40px;
-    margin-left: auto;
-    margin-right: auto;
     background-color: #d9bf9e;
+    padding-bottom: 5px;
   }
   
   header{
+    margin-left: none;
     justify-content: space-evenly;
     align-items: center;
     padding: 20px;
-    position: fixed;
+    position: sticky;
+    top: 0;
+    right: 0;
+    left: 0;
+    background-color: #d9bf9e;
+    border-bottom: 2px solid;
+    border-color: #8b5843;
   }
   
   .titulo{
@@ -57,6 +62,8 @@ html {
   }
   
   div.div1{
+    margin-top: 10px;
+    margin-bottom: 10px;
     width: 1000px;
     margin-left: auto;
     margin-right: auto;
