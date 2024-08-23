@@ -59,14 +59,8 @@ html {
     width: 1000px;
     margin-left: auto;
     margin-right: auto;
-    background-color: white;
-    padding: 30px;
-  }
-  
-  div.div2{
     background-color: #e3e1e6;
+    padding: 30px;
     border: 2px solid;
     border-color: #8b5843;
-    margin-top: 5px;
-    margin-bottom: 5px;
   }
