@@ -76,3 +76,31 @@ html {
     border-color: #8b5843;
     border-radius: 10px;
   }
+
+
+  div.div2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #e3e1e6;
+    padding: 30px;
+    border: 2px solid;
+    border-color: #8b5843;
+    border-radius: 10px;
+    text-align: center;
+  }
+
+  label{
+    font-size: 20px;
+    position;
+  }
+
+  input.input {
+    width: 80%;
+    height: 20px;
+    margin-bottom: 10px;
+  }
+
+ 
